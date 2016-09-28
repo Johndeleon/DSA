@@ -1,4 +1,3 @@
-
 public class FindMinMax {
     
     public static void main (String[] args){
@@ -16,7 +15,7 @@ public class FindMinMax {
             
         }
         System.out.println("smallest number is"+min);
-        System.out.println("smallest number is"+max);
+        System.out.println("largest number is"+max);
     }
     
 }
